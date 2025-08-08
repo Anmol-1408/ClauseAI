@@ -15,12 +15,11 @@ exceptiongroup==1.3.0
 fastapi==0.116.1
 filetype==1.2.0
 frozenlist==1.7.0
-google-ai-generativelanguage==0.6.15
+google-ai-generativelanguage==0.6.18
 google-api-core==2.25.1
 google-api-python-client==2.177.0
 google-auth==2.40.3
 google-auth-httplib2==0.2.0
-google-generativeai==0.8.5
 googleapis-common-protos==1.70.0
 greenlet==3.2.3
 grpcio==1.74.0
