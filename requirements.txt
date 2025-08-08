@@ -63,7 +63,6 @@ pypdf==5.9.0
 python-decouple==3.8
 python-dotenv==1.1.1
 python-multipart==0.0.20
-pywin32==311
 PyYAML==6.0.2
 qdrant-client==1.15.0
 requests==2.32.4
